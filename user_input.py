@@ -1,0 +1,11 @@
+name =input("Enter your name :")
+Age = input("Enter your Age :")
+RegNo =input("Enter your Registration Number :")
+CGPA =input("Enter your CGPA :")
+
+print("Student Information")
+print("----------------------")
+print("Name  :"+name)
+print("Age :"+Age)
+print("Reg No :"+RegNo)
+print("CGPA :"+CGPA)
